@@ -6,9 +6,6 @@ ________________________________________________________________________________
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning Clean Architecture on Backend
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with {"bigProject":???}
-- 💬 Ask me about Python, Django, {"little":[JS, Jquery, Ajax]}
+- 🤔 I’m looking for help with { "bigProject" : ??? }
+- 💬 Ask me about Python, Django, { "little" : [ JS, Jquery, Ajax ] }
 - 📫 How to reach me: py.owezdurdy@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
